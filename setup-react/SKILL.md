@@ -15,11 +15,11 @@ If any are missing, recommend installing them first.
 ## Usage
 
 1. Run `node <path_to_this_skill>/scripts/setup.ts` which will:
-  1. Set up a Git repo
-  2. Set up shadcn with Vite following: https://ui.shadcn.com/docs/installation/vite
-  3. Remove Vite boilerplate and replace with a minimal shadcn example
-  4. Remove Vite README and replace with a minimal installation+usage example
-  4. Install Prettier and set up precommit hook to format staged files
+   1. Set up a Git repo
+   2. Set up shadcn with Vite following: https://ui.shadcn.com/docs/installation/vite
+   3. Remove Vite boilerplate and replace with a minimal shadcn example
+   4. Remove Vite README and replace with a minimal installation+usage example
+   5. Install Prettier and set up precommit hook to format staged files
 2. Test
 3. Commit
 
