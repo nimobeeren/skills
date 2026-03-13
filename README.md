@@ -1,1 +1,1 @@
-My repository of agent skills for Cursor, Claude Code etc.
+My repository of personal agent skills.
